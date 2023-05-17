@@ -4,7 +4,7 @@ Potrzebne paczki NuGet:
 
 1. Microsoft.EntityFrameworkCore
 2. Microsoft.EntityFrameworkCore.SqlServer
-3. Microsoft.EntityFrameworkCore.Tools (działa tylko w VisualStudio)
+3. Microsoft.EntityFrameworkCore.Tools
 
 
 Komenda do generowania migracji
