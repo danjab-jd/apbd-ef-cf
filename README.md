@@ -18,3 +18,8 @@ Komenda do aktualizacji bazy (przeniesienia migracji na bazę danych)
 
 1. VisualStudio: Update-Database
 2. Rider: dotnet ef database update
+
+Komenda do wycofania transakcji (nieuruchomionej jeszcze na bazie)
+
+1. VisualStudio: Remove-Migration
+2. Rider: dotnet ef migrations remove
